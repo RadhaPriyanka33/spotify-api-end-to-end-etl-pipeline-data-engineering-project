@@ -1,4 +1,4 @@
-# Spotify API End-to-End ETL pipeline Data Engineering Project
+# Spotify API End-to-End Data Engineering Project
 
 ### Description
 
